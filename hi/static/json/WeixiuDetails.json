@@ -1,0 +1,4 @@
+[
+    {"id":1,"name":"屏幕","describe":"屏幕碎裂、屏幕不亮、触控失灵","imgUrl":"//pic.hiweixiu.com/hiweixiu-app/fault_ico/34_icon.png"},
+    {"id":2,"name":"按键","describe":"开机键、音量键、home键按失灵，键手感变差、塌陷","imgUrl":"//pic.hiweixiu.com/hiweixiu-app/fault_ico/57_icon.png"}
+]

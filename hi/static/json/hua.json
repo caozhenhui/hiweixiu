@@ -1,0 +1,8 @@
+{
+	"telephone":[
+	    {"id":1,"model":"华为 Mate 9 Pro", "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20170314/20170314093347_84175.jpg"},
+	    {"id":2,"model":"华为 Mate 9", "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20170314/20170314092840_88640.jpg"},
+	    {"id":3,"model":"华为 Mate 8", "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20170314/20170314093813_31147.jpg"},
+	    {"id":4,"model":"华为 Mate S", "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20170314/20170314094023_49838.jpg"}
+	]
+}

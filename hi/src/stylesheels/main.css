@@ -1,0 +1,11 @@
+@import './priticle/reset.css';
+
+.page {
+    padding-top: 44px;
+}
+html{
+    font-size: 100px;
+}
+body{
+    background-color: #f5f5f5;
+}

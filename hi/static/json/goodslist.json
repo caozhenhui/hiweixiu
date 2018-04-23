@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "model":"iPhone 7",
+        "price":"3200",
+        "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20160922/20160922094415_95468.png"
+    },
+    {
+        "id":2,
+        "model":"iPhone 8",
+        "price":"3300",
+        "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20170914/20170914161435_37605.jpg"
+    },
+    {
+        "id":3,
+        "model":"iPhone X",
+        "price":"8800",
+        "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20160701/20160701140431_98104.jpg"
+    },
+    {
+        "id":4,
+        "model":"iPad mini",
+        "price": "5100",
+        "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20160922/20160922094415_95468.png"
+    },
+    {
+        "id":5,
+        "model":"iPhone 11",
+        "price": "13700",
+        "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20160701/20160701140431_98104.jpg"
+    }
+]

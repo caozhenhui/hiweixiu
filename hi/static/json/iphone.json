@@ -1,0 +1,14 @@
+{
+	"telephone":[
+	    {"id":1, "model":"iPhone X", "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20170925/20170925113643_39363.jpg"},
+	    {"id":2,"model":"iPhone8", "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20170914/20170914161359_15511.jpg"},
+	    {"id":3,"model":"iPhone8 Plus", "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20170914/20170914161435_37605.jpg"},
+	    {"id":4,"model":"iPhone7", "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20160922/20160922094415_95468.png"}
+    ],
+    "ipad":[
+        {"id":1,"model":"iPad mini1,Wi-Fi", "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20160701/20160701140431_98104.jpg"},
+        {"id":2,"model":"iPad mini2,Wi-Fi", "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20160701/20160701140431_98104.jpg"},
+        {"id":3,"model":"iPad mini3", "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20160825/20160825085935_89163.png"},
+        {"id":4,"model":"iPad mini4", "imgUrl":"http://pic.hiweixiu.com/images/uploadImg/modelImg/20160824/20160824175126_98427.png"}
+    ]
+}
